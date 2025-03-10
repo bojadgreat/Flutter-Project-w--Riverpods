@@ -1,6 +1,6 @@
-# test_project
+# Flutter Project with Riverpods
 
-A new Flutter project.
+A new Flutter project with riverpods integration and API call.
 
 ## Getting Started
 
